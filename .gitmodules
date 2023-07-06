@@ -1,0 +1,3 @@
+[submodule "djangoauth"]
+	path = djangoauth
+	url = https://github.com/iman2610/ChatBot.git
